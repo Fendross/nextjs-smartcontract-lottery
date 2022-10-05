@@ -6,4 +6,4 @@ This page allows users to participate with a small amount of ETH in an automated
 
 ## Website link (hosted with IPFS)
 
-[a link](ipfs://bafybeihooywzh3hwcu5joamaj2zironw522llzvdfvahhw2slo3hddyeaq/)
+[Smart Contract Lottery](ipfs://bafybeihooywzh3hwcu5joamaj2zironw522llzvdfvahhw2slo3hddyeaq/)
