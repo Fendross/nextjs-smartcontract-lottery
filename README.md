@@ -8,7 +8,7 @@ Please note that this only works on the hardhat network for now.
 
 ## Website link (hosted with IPFS node and Fleek)
 
-IPFS URL: (ipfs://bafybeihooywzh3hwcu5joamaj2zironw522llzvdfvahhw2slo3hddyeaq/)
+IPFS URL: ipfs://bafybeihooywzh3hwcu5joamaj2zironw522llzvdfvahhw2slo3hddyeaq/
 
 [Fleek URL](https://soft-smoke-8642.on.fleek.co/)
 
