@@ -15,3 +15,7 @@ IPFS URL: ipfs://bafybeihooywzh3hwcu5joamaj2zironw522llzvdfvahhw2slo3hddyeaq/
 ---
 
 Tutorial link: [FreeCodeCamp Blockchain Tutorial JS Version](https://www.youtube.com/watch?v=gyMwXuJrbJQ&t=79415s)
+
+---
+
+_Built by Fendross_
